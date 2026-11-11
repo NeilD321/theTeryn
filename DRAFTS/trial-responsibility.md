@@ -30,13 +30,13 @@
 
 **13** The reward for a good deed is found in the lives it touches, and it is paid in full the moment it is done.
 
-**14** We answer for ourselves, and we answer to each other.
+**14** We are responsible for ourselves, and to each other.
 
 **15** A weight carried together is lighter than a weight carried alone.
 
 **16** We are each other's keepers.
 
-**17** A life we answer for is a life that belongs to us.
+**17** Whoever owns their choices owns their life.
 
 ---
 
@@ -44,7 +44,8 @@
 
 **What changed in v5:**
 - Every verse now stands alone.
-- The register is scriptural: declarative, timeless, built on parallel halves ("We answer for ourselves, and we answer to each other").
+- The register is scriptural: declarative, timeless, built on parallel halves.
+- **Avoid "answer for"** (founder, 11 Nov). It implies being called to account by someone above us. Verses 14 and 17 have been rewritten.
 - Modern words throughout; no contractions; no editorial chat.
 
 **Checklist** (`EDITORIAL/checklist.md`):

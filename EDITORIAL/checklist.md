@@ -44,6 +44,7 @@ If a rule here conflicts with a later decision, the decision wins and this list 
 16. **Verse length** (revised 11 Nov). A verse is one thought: a single line, or at most one short paragraph (roughly up to four sentences, as a guide). No long paragraphs. Mix lengths: short verses gain force next to longer ones. The chapter has a sensible order, but every verse stands alone (see 8).
 17. **Not funny** (11 Nov).
 18. **Central theme: responsibility**, including the no-gods difference (no plan, no final judge, forgiveness only from people) where relevant.
+18a. **No language of judgment from above.** Avoid "answer for", "be judged", "called to account", "reckoning" and similar phrases that imply someone above us keeping score.
 19. **No luck as a force.** Unchosen circumstances "simply happen".
 20. **Kind.** No blaming people for what they did not choose.
 
