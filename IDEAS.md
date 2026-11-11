@@ -108,7 +108,7 @@ Key: ★ = suggested for a First Edition core (proposal only). ◆ = unconventio
 - Disability and neurodiversity, so the "human experience" is not written for one kind of body or mind.
 - Parenting, as distinct from childhood.
 - Solitude and silence.
-- Luck and chance: how much of a life is not earned.
+- Unchosen circumstances: how much of a life simply happens and is not earned. Note: the founder holds that there is no such thing as luck, so this is never framed as luck.
 - Ritual without religion: marking births, comings-of-age, marriages and deaths secularly. This is practical, widely wanted, and a place where The Teryn could actually be *used*.
 
 ## Draft fragments the founder liked (11 Nov 2026)
