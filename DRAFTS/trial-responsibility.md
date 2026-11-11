@@ -8,7 +8,7 @@
 
 **2** Every life begins unwritten, and every life is written by the one who lives it.
 
-**3** Some give their lives to fate, some to the stars, some to luck, and some to the voice that gives the orders; yet every life remains in the hands of the one who lives it.
+**3** Some give their lives to fate, some to the stars, some to luck, and some to the voice that gives the orders; yet every life still belongs to the one who lives it.
 
 **4** To say "this is just how I am" is itself a choice.
 
@@ -36,12 +36,16 @@
 
 **16** Whoever owns their choices owns their life.
 
+**17** Every life is in human hands, and human hands are enough.
+
 ---
 
 ## Notes
 
 **What changed in v6:**
 - "There are no gods" was removed as the opening verse. The founder (11 Nov) found it too strong to open with: it would turn readers off immediately. Verses renumbered.
+- Verse 17, "Every life is in human hands, and human hands are enough", added as the closing verse to carry the same meaning gently (chosen by the founder, 11 Nov).
+- Verse 3 reworded ("still belongs to the one who lives it") to avoid repeating "hands".
 
 **What changed in v5:**
 - Every verse stands alone.
@@ -59,4 +63,4 @@
 
 **Founder's line changed:** "That is not a burden. / It is the whole point." no longer appears.
 
-**Open question:** does "There are no gods" appear anywhere in this chapter? Options: leave it out, place it later, or use a gentler verse that carries the same meaning.
+**Open question:** does the founding line ("There are no gods. We have this universe…") also need softening for the opening of the whole book?
