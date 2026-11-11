@@ -86,7 +86,7 @@ The Bible's numbering was imposed centuries after writing. Ours is applied by th
 4. Chapters aim for **10–60 verses**, readable in one sitting. The Bible averages about 26.
 5. Verse numbering must not change the writing. If a passage only "works" because each sentence has been forced into a quotable aphorism, rewrite it as prose.
 
-> **Founder's direction (28 Oct 2026):** no long paragraphs anywhere. All writing is short, meaningful verses, each on its own line, and chapters must still read straight through. The "Prose" layout mode below is therefore dropped, and rule 3's word limits should come down. The other modes remain possibilities.
+> **Founder's direction (revised 11 Nov 2026):** a verse is one line or, at most, one short paragraph. There are no long paragraphs anywhere, and chapters must read straight through. Each verse is set as its own line or paragraph with its number, so the "Prose" mode below (verse numbers running inside paragraphs) is dropped. The other modes remain possibilities.
 
 ### Layout modes
 

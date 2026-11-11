@@ -37,7 +37,7 @@ If a rule here conflicts with a later decision, the decision wins and this list 
 
 ## E. Founder's directions (`DECISIONS.md`)
 
-16. **Short verses, one per line**, no long paragraphs, and the chapter reads straight through as a connected whole.
+16. **Verse length** (revised 11 Nov). A verse is one thought: a single line, or at most one short paragraph (roughly up to four sentences, as a guide). No long paragraphs. Mix lengths: short verses gain force next to longer ones. The chapter reads straight through as a connected whole.
 17. **Not funny** (11 Nov).
 18. **Central theme: responsibility**, including the no-gods difference (no plan, no final judge, forgiveness only from people) where relevant.
 19. **No luck as a force.** Unchosen circumstances "simply happen".

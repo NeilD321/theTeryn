@@ -18,7 +18,8 @@ Format: `D-### — Title (date) — Status`
 - **11 Nov 2026: Not funny.** The writing should not aim to be funny, because humour risks people not taking The Teryn seriously. Replaces the 28 Oct "Humour, lightly" direction. Still open: whether laughter can appear as a *subject* (part of human life), and how to avoid the opposite trap of solemnity.
 - ~~**28 Oct 2026: Be kind; don't argue.**~~ ~~Never mentions gods.~~ *Revised 11 Nov 2026 (next entry).*
 - **11 Nov 2026: State it, don't argue it.** The Teryn says plainly that there are no gods, and weaves that through the collection. It never argues, mocks or belittles believers. (Recorded in `VISION.md` and `PRINCIPLES.md`.)
-- **28 Oct 2026: Short verses only.** No long paragraphs anywhere. Everything is written as short, meaningful verses, each on its own line. Chapters should still read straight through as a connected whole; daily readings may come later.
+- ~~**28 Oct 2026: Short verses only, each on its own line.**~~ *Revised 11 Nov 2026 (next entry).*
+- **11 Nov 2026: A verse can be one line or one short paragraph.** One line per verse is too restrictive. A verse may run to a single short paragraph, but never longer, and there are still no long paragraphs anywhere. Each verse is one thought. Chapters read straight through as a connected whole; daily readings may come later.
 - ~~**28 Oct 2026: Drop "There are no gods" from the founding line.**~~ *Reversed 11 Nov 2026: the founder did not intend to drop it. "There are no gods" stays in the founding line and the tagline.*
 
 Working assumptions (practical defaults, not decisions; easy to change):
