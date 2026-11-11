@@ -8,13 +8,22 @@ Status: **Starting brief, open to revision.** Summarised from the project master
 
 ## Founding line
 
-Two candidates, both kept open. The founder currently prefers **A** (11 Nov 2026):
+### The shape of the premise (agreed 11 Nov 2026)
 
-> **A.** There are no gods. We have this universe, this planet, this life and each other. What we make of them is our responsibility.
+The entire premise is that there are no gods. Said bluntly at the start, it is confrontational and would turn readers away immediately. So:
+
+- **The cover** carries an honest, gentle signal: the tagline "a book about life, not gods". Readers are never misled about what kind of book this is.
+- **The opening** of The Teryn is the founding line without its first sentence (see candidates below).
+- **Throughout**, the idea is carried gently, as in "Every life is in human hands, and human hands are enough."
+- **The very last line of the whole Teryn** is: **"There are no gods."** By then it confirms what the reader has already seen, rather than confronting them. It is used once only; chapters do not end with it.
+
+### Opening line candidates
+
+Both kept open. The founder currently prefers **A**:
+
+> **A.** We have this universe, this planet, this life and each other. What we make of them is our responsibility.
 
 > **B.** We have one extraordinary opportunity to exist. The Teryn is about what we do with it.
-
-"There are no gods" stays (restored 11 Nov 2026, superseding a 28 Oct note that dropped it). The tagline "a book about life, not gods" also stays.
 
 ## Central theme
 
@@ -52,14 +61,14 @@ It is a **library of human understanding contained within one work**, and a **ce
 
 ## Stance on religion
 
-Revised 11 Nov 2026: **The Teryn states plainly that there are no gods, and weaves that truth through the collection wherever it matters. It does not argue, mock or insult.**
+Revised 11 Nov 2026: **The premise that there are no gods runs through the whole collection, carried gently. It is stated bluntly only once, as the last line of the book (see "The shape of the premise" above). The Teryn never argues, mocks or insults.**
 
-- **Stating** a fact calmly ("There are no gods. What we do is up to us.") is fine.
-- **Arguing**, **mocking** or **belittling** believers ("only a fool would…") is not.
+- **Carrying** the idea gently ("Every life is in human hands, and human hands are enough") is the norm.
+- **Arguing**, **mocking** or **belittling** believers ("only a fool would…") is never acceptable.
 
 It should be a book a religious reader can read without feeling attacked. Its honesty, confidence and kindness do the persuading.
 
-(Supersedes the 28 Oct 2026 wording, which said The Teryn would never mention gods.)
+(Supersedes earlier wording of 28 Oct and 11 Nov 2026.)
 
 It is not a religion, not a rebuttal of the Bible, and not a new dogma.
 

@@ -17,7 +17,14 @@ Format: `D-### — Title (date) — Status`
 - ~~**28 Oct 2026: Humour, lightly.**~~ *Superseded 11 Nov 2026 (see below).*
 - **11 Nov 2026: Not funny.** The writing should not aim to be funny, because humour risks people not taking The Teryn seriously. Replaces the 28 Oct "Humour, lightly" direction. Still open: whether laughter can appear as a *subject* (part of human life), and how to avoid the opposite trap of solemnity.
 - ~~**28 Oct 2026: Be kind; don't argue.**~~ ~~Never mentions gods.~~ *Revised 11 Nov 2026 (next entry).*
-- **11 Nov 2026: State it, don't argue it.** The Teryn says plainly that there are no gods, and weaves that through the collection. It never argues, mocks or belittles believers. (Recorded in `VISION.md` and `PRINCIPLES.md`.)
+- ~~**11 Nov 2026: State it, don't argue it.**~~ *Refined later the same day (next entry).*
+- **11 Nov 2026: "There are no gods" is the very last line of The Teryn.** It is the entire premise, but too confrontational to open with. Instead:
+  - the cover carries the honest tagline "a book about life, not gods";
+  - the book opens with the founding line minus its first sentence;
+  - the idea is carried gently throughout;
+  - the blunt line is stated once, at the very end. It is never used as a chapter ending elsewhere.
+  
+  The Teryn never argues, mocks or belittles believers. (Recorded in `VISION.md`, `PRINCIPLES.md` and the checklist.)
 - ~~**28 Oct 2026: Short verses only, each on its own line.**~~ *Revised 11 Nov 2026 (next entry).*
 - **11 Nov 2026: A verse can be one line or one short paragraph.** One line per verse is too restrictive. A verse may run to a single short paragraph, but never longer, and there are still no long paragraphs anywhere. Each verse is one thought.
 - **11 Nov 2026: Every verse stands on its own.** A reader must be able to take any single verse and understand it without the ones around it. No verse leans on the previous one ("But…", "So…", "This…"). Chapters still have a sensible order, but they are not an argument you must follow from the start. (Replaces the earlier "chapters read straight through as a connected whole".)

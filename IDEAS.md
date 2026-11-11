@@ -136,7 +136,7 @@ Sketches written to show a direction for the central theme. **Not approved text*
 > and no one is coming to fix what we break.
 > What we do is ours.
 
-The third fragment is a model of "state it, don't argue it": plain and confident, with no insult.
+The third fragment was a model of plain, confident statement with no insult. Since 11 Nov 2026, "There are no gods" is reserved for the last line of The Teryn, and negatives are avoided, so this fragment would need reworking before use.
 
 ## Gaps found by the needs map (11 Nov 2026)
 

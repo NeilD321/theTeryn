@@ -44,7 +44,7 @@ Make room for disagreement, ambiguity, joy, anger, grief, curiosity and wonder. 
 
 ## Agreed additions
 
-- **State it, don't argue it** (revised 11 Nov 2026; supersedes "be kind; don't argue" of 28 Oct). The Teryn says plainly that there are no gods, and weaves that through the collection wherever it gives meaning, above all to the theme of responsibility. It never argues, mocks or belittles believers, and pokes fun at no one. Test: would a thoughtful religious reader feel *disagreed with* (fine) or *looked down on* (not fine)?
+- **Carry it gently; never argue it** (revised 11 Nov 2026; supersedes earlier versions). The premise that there are no gods runs through the collection, carried gently, above all through the theme of responsibility. The blunt statement "There are no gods" appears once only, as the very last line of The Teryn. It never argues, mocks or belittles believers, and pokes fun at no one. Test: would a thoughtful religious reader feel *disagreed with* (fine) or *looked down on* (not fine)?
 
 ## Proposed additions
 - **[PROPOSED] Write for the world.** Draw examples, sayings and history from many cultures by default, not as an afterthought.

@@ -63,4 +63,4 @@
 
 **Founder's line changed:** "That is not a burden. / It is the whole point." no longer appears.
 
-**Open question:** does the founding line ("There are no gods. We have this universe…") also need softening for the opening of the whole book?
+**Decided 11 Nov:** "There are no gods" will be the very last line of the whole Teryn, and appears nowhere else (see `VISION.md`).

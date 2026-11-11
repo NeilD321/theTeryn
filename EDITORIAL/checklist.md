@@ -10,9 +10,9 @@ If a rule here conflicts with a later decision, the decision wins and this list 
 
 ## A. What The Teryn is
 
-1. **What we have, not what we lack** (§17). Count the negatives ("no", "not", "never", "no one", "nothing", "without"). "There are no gods" is the one negative the work needs; any other must earn its place.
+1. **What we have, not what we lack** (§17). Count the negatives ("no", "not", "never", "no one", "nothing", "without"). Aim for none. Any negative must earn its place. "There are no gods" is reserved for the last line of the whole Teryn (decision 11 Nov) and appears nowhere else.
 2. **A celebration of existence** (§17). Does the passage leave the reader with more, not less?
-3. **State it, don't argue it** (decision 11 Nov). Plainly stating there are no gods is fine. Arguing, mocking or belittling believers is not. Test: would a thoughtful religious reader feel *disagreed with* (fine) or *looked down on* (not fine)?
+3. **Carry it gently; never argue it** (decision 11 Nov). The no-gods premise is carried gently, as in "human hands are enough". Arguing, mocking or belittling believers is never acceptable. Test: would a thoughtful religious reader feel *disagreed with* (fine) or *looked down on* (not fine)?
 4. **Not self-help cliché** (§13).
 
 ## B. Style (§8)

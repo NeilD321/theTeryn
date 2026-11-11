@@ -4,9 +4,9 @@
 
 A secular collection of books, chapters and numbered verses about existence, knowledge, human experience and how we live together.
 
-> There are no gods. We have this universe, this planet, this life and each other. What we make of them is our responsibility.
+> We have this universe, this planet, this life and each other. What we make of them is our responsibility.
 
-(Founding line still being chosen; see `VISION.md`.)
+(Opening line still being chosen. The book's final line is "There are no gods." See `VISION.md`.)
 
 ## Project status
 
