@@ -1,55 +1,62 @@
 # Responsibility
 
-*Trial chapter, version 4. Not approved text.*
+*Trial chapter, version 5. Not approved text.*
 
 ---
 
 **1** There are no gods.
 
-**2** We have this world, this life and each other. What we make of them is up to us.
+**2** We have this world, this life and each other, and what we make of them is in our hands.
 
-**3** People have long found comfort in the thought that everything was decided before they were born. They have handed their lives to gods and to fate, to luck and to the stars, to "meant to be", to whoever was giving the orders.
+**3** Every life begins unwritten, and every life is written by the one who lives it.
 
-**4** Some hand their lives to their own nature, and say, "That's just how I am." It is an understandable thing to do, because choosing is hard.
+**4** Some give their lives to fate, some to the stars, some to luck, and some to the voice that gives the orders; yet every life remains in the hands of the one who lives it.
 
-**5** But the choices were always ours.
+**5** To say "this is just how I am" is itself a choice.
 
-**6** Every kindness we have ever received came from someone who chose to give it: the neighbour who brought food when someone died, the stranger who stopped, the friend who said sorry first.
+**6** Every kindness ever given was given by someone who chose to give it, and every cruelty was chosen too.
 
-**7** Every cruelty was chosen too.
+**7** The neighbour who brings bread to a house of mourning, the stranger who stops on the road, the friend who is first to say sorry: these are the works of people, freely done.
 
-**8** Courage and excuses, kindness and harm, belong to the people who choose them.
+**8** Courage and cowardice, kindness and harm, belong to those who choose them.
 
-**9** Some things simply happen. Where we are born, to whom, and in what body, all come before any choice of ours. Everyone begins where they find themselves.
+**9** Where we are born, to whom, and in what body, all come before our first choice.
 
-**10** What we do from there is ours. A single choice can change a day, a friendship, sometimes a life.
+**10** Each of us begins where we find ourselves, and from there the path is ours.
 
-**11** When we do harm, forgiveness lives with the people we have hurt. It is theirs to give, and ours to ask for.
+**11** A single choice can turn a day, a friendship, and sometimes a whole life.
 
-**12** When we do good, the reward is already there, in the people it reaches.
+**12** Forgiveness for a wrong lives with the one who was wronged; it is theirs to give, and ours to ask.
 
-**13** This is a great deal to carry. It is lighter carried together.
+**13** The reward for a good deed is found in the lives it touches, and it is paid in full the moment it is done.
 
 **14** We answer for ourselves, and we answer to each other.
 
-**15** So we look after each other.
+**15** A weight carried together is lighter than a weight carried alone.
 
-**16** Some would call this a burden. It is what makes a life our own.
+**16** We are each other's keepers.
+
+**17** A life we answer for is a life that belongs to us.
 
 ---
 
 ## Notes
 
-**Version history** (earlier versions are kept in git):
-- v1 was too negative.
-- v2 was preachy and slogan-like, and overclaimed.
-- v3 was one line per verse.
-- v4 lets verses run to a short paragraph, which takes the chapter from 26 verses down to 16.
+**What changed in v5:**
+- Every verse now stands alone.
+- The register is scriptural: declarative, timeless, built on parallel halves ("We answer for ourselves, and we answer to each other").
+- Modern words throughout; no contractions; no editorial chat.
 
-**Checklist** (`EDITORIAL/checklist.md`): all checks pass as in v3. The only negative is verse 1, and "we" is used throughout. Verse lengths are now mixed: the short verses (1, 5, 7, 15) sit next to longer ones.
+**Checklist** (`EDITORIAL/checklist.md`):
+- **Standalone test** passed: each verse was read in isolation, and none starts with a backward-pointing "But", "So" or "This".
+- **Negatives:** verse 1 only.
+- **"We" throughout;** no commands.
+- **No overclaims:** "every kindness… was chosen" is true by definition.
 
-**Founder's line changed:** "That is not a burden. / It is the whole point." became verse 16. It can be restored.
+**Biblical echoes** (flagged under checklist item 21):
+- **Verse 7**, "house of mourning", echoes Ecclesiastes 7:2.
+- **Verse 16**, "We are each other's keepers", answers Cain's question in Genesis 4:9, "Am I my brother's keeper?". It is an affirmation, not a jab, but it is deliberate, so the founder should decide.
 
-**Open questions:**
-- Verse 1: open bluntly, or let it arrive later?
-- Verse 16: the new ending, or "It is the whole point"?
+**Founder's line changed:** "That is not a burden. / It is the whole point." no longer appears. Verse 17 now closes the chapter.
+
+**Open question:** should verse 1 open the chapter, or arrive later? Since every verse now stands alone, its position matters less.

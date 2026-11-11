@@ -19,7 +19,9 @@ Format: `D-### — Title (date) — Status`
 - ~~**28 Oct 2026: Be kind; don't argue.**~~ ~~Never mentions gods.~~ *Revised 11 Nov 2026 (next entry).*
 - **11 Nov 2026: State it, don't argue it.** The Teryn says plainly that there are no gods, and weaves that through the collection. It never argues, mocks or belittles believers. (Recorded in `VISION.md` and `PRINCIPLES.md`.)
 - ~~**28 Oct 2026: Short verses only, each on its own line.**~~ *Revised 11 Nov 2026 (next entry).*
-- **11 Nov 2026: A verse can be one line or one short paragraph.** One line per verse is too restrictive. A verse may run to a single short paragraph, but never longer, and there are still no long paragraphs anywhere. Each verse is one thought. Chapters read straight through as a connected whole; daily readings may come later.
+- **11 Nov 2026: A verse can be one line or one short paragraph.** One line per verse is too restrictive. A verse may run to a single short paragraph, but never longer, and there are still no long paragraphs anywhere. Each verse is one thought.
+- **11 Nov 2026: Every verse stands on its own.** A reader must be able to take any single verse and understand it without the ones around it. No verse leans on the previous one ("But…", "So…", "This…"). Chapters still have a sensible order, but they are not an argument you must follow from the start. (Replaces the earlier "chapters read straight through as a connected whole".)
+- **11 Nov 2026: It should sound like scripture.** Not conversational, and not the editor chatting. The register is timeless, declarative and rhythmic, using the devices of scripture (parallelism, repetition, concrete images), but in modern words: no thee, thou or unto. (Refines the brief's "avoid archaic biblical English": the shape of scripture, without the archaism.)
 - ~~**28 Oct 2026: Drop "There are no gods" from the founding line.**~~ *Reversed 11 Nov 2026: the founder did not intend to drop it. "There are no gods" stays in the founding line and the tagline.*
 
 Working assumptions (practical defaults, not decisions; easy to change):

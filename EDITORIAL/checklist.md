@@ -17,10 +17,14 @@ If a rule here conflicts with a later decision, the decision wins and this list 
 
 ## B. Style (§8)
 
-5. **No archaic or biblical English**: no thee, unto, lo, yea, or inverted word order. No verses starting "And", "Nor" or "For" just for rhythm.
+5. **Scriptural register, modern words** (revised 11 Nov).
+   - Sound like scripture: timeless, declarative, rhythmic.
+   - Use parallelism (two halves that echo or contrast), repetition and concrete images.
+   - No conversational asides, hedging chat or contractions.
+   - No archaism: no thee, thou, unto, lo, yea.
 6. **No preaching.** Prefer "we" to telling "you" what to do. Describe rather than command. An instruction must earn its place.
 7. **No empty slogans.** Every line says something specific and true. Test: on a fridge magnet with no context, would it mean almost nothing? Prefer concrete images to abstractions.
-8. **Not every verse a proverb.** Connecting verses that carry the reader forward are good.
+8. **Every verse stands on its own** (revised 11 Nov). Read each verse alone: does it make complete sense? No verse depends on the one before it: no opening "But", "So", "Yet", "This" or "It" that points backwards.
 9. **No unsupported certainty.** Check every "every", "all", "always", "never" and "no one". Is it actually true?
 10. **No excessive solemnity, pretension or jargon.**
 11. **Science is not moral commandment.**
@@ -37,7 +41,7 @@ If a rule here conflicts with a later decision, the decision wins and this list 
 
 ## E. Founder's directions (`DECISIONS.md`)
 
-16. **Verse length** (revised 11 Nov). A verse is one thought: a single line, or at most one short paragraph (roughly up to four sentences, as a guide). No long paragraphs. Mix lengths: short verses gain force next to longer ones. The chapter reads straight through as a connected whole.
+16. **Verse length** (revised 11 Nov). A verse is one thought: a single line, or at most one short paragraph (roughly up to four sentences, as a guide). No long paragraphs. Mix lengths: short verses gain force next to longer ones. The chapter has a sensible order, but every verse stands alone (see 8).
 17. **Not funny** (11 Nov).
 18. **Central theme: responsibility**, including the no-gods difference (no plan, no final judge, forgiveness only from people) where relevant.
 19. **No luck as a force.** Unchosen circumstances "simply happen".
@@ -45,7 +49,7 @@ If a rule here conflicts with a later decision, the decision wins and this list 
 
 ## F. Research (§15)
 
-21. **Quotations verified**; nothing invented; nothing written in a real person's voice.
+21. **Quotations verified**; nothing invented; nothing written in a real person's voice. **Biblical echoes** are flagged to the founder, so any allusion is deliberate and never mocking.
 
 ## G. Final tests
 
